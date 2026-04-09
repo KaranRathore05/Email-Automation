@@ -3,7 +3,7 @@ import pandas as pd
 import yagmail
 
 sender_email = "karan0797s@gmail.com"
-app_password = "zhjdemuhfadkxgvm"
+app_password = ""
 
 yag = yagmail.SMTP(sender_email, app_password)
 
